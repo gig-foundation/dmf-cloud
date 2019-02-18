@@ -1,4 +1,5 @@
 name := "dmf-cloud"
+description := "Cloud-hosted, reference implementation of the Data Management Foundation."
 
 ThisBuild / organization := "gig.foundation"
 ThisBuild / organizationName := "Global Information Graph Foundation"
